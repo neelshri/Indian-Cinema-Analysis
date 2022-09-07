@@ -78,7 +78,8 @@ movies_bollywood=pd.DataFrame({"Movie Name":movie_name_bw,
 "Movie IMDB Rating":movie_rating_bw,
 "Movies Runtime":movie_time_bw,
 "Movie Genre":movie_genre_bw,
-"Movie Votes":movie_votes_bw})
+"Movie Votes":movie_votes_bw,
+"Movie Metascore":movie_metascore_bw})
 
 
    
