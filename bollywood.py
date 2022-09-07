@@ -82,7 +82,7 @@ movies_bollywood=pd.DataFrame({"Movie Name":movie_name_bw,
 "Movie Metascore":movie_metascore_bw})
 
 
-   
+print(movies_bollywood)
 
 
 
