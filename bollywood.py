@@ -83,7 +83,7 @@ movies_bollywood=pd.DataFrame({"Movie Name":movie_name_bw,
 
 
    
-print(movies_bollywood['Movie IMDB Rating'])
+
 
 
     
