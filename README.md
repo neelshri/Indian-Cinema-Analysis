@@ -4,7 +4,7 @@ To analyse the different film industry within the indian cinema.
 Under this project I am using websctaping libraries
 Such as bs4/BeautifulSoup and request to scrape IMDB website.
 
-I have written this bollywood.py file using the VS code editor as it felt easier.
+I have written this bollywood.py file using the VS code editor as it felt easier and later I moved to conda/Jupyter notebooks.
 Later I have written similar but not exactly the same code to extract data for different indian cinemas.
 
 The data is being collected for 7 different film industries within the Indian cinema.
