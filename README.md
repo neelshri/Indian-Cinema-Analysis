@@ -19,8 +19,13 @@ The data is being collected for 7 different film industries within the Indian ci
 Now, the data was started to get collected however, the format was not the one relevant for analysis
 hence, I wrote some different set of lopps and blocks to fix that to get that data upon which the analysis can be worked.
 
-Once the data is collected I will perform analysing using analysis
-Focused libraries such as pandas , numpy.
+An unclean xlsx file was generated with the help of the python script I wrote. The name of this unclean file is 
+"Indian Cinema.xlsx"
+
+Now with the help of a tool Alteryx(attached 2 sample images from the several workflows of the data) I cleaned most of the data 
+for irregularities and duplicate records and then the results were fed into a new xlsx file i.e. "Cleaned_Indian_cinema.xlsx"
+
+Now, moving back to analysis using python. 
 
 Use the data visualization libraries to showcase the results
 via charts and graph.
